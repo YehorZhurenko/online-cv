@@ -56,7 +56,7 @@ experiences:
       - role: Freelance developer
         time: 2019 - Present
     
-        details: |
+ #       details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
