@@ -73,31 +73,27 @@ experiences:
 
 
 projects:
-    title: Projects
+    title: pizzaShop
 #    intro: >
 #      You can list your side projects in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Pizza Ordering App
+        link: "https://github.com/YehorZhurenko/pizzaShop"
+        tagline: "A pizza ordering app where users can browse pizzas, customize size and toppings, review their selections, and proceed to checkout"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: mongoTodo
+        link: "https://github.com/YehorZhurenko/mongoTodo"
+        tagline: "Todo App built with Vanilla JavaScript, HTML, CSS, and MongoDB, allowing users to create, edit, and delete tasks with data stored in MongoDB and dynamically updated via API calls"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Technotes
+        link: "https://github.com/YehorZhurenko/technotes_back/"
+        tagline: "This web-based application for managing notes in a work environment features separate backend and frontend architecture, allowing users to manage, view, and edit notes with role-based access and secure login functionality"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Realtime Twitty Chat
+        link: "https://github.com/YehorZhurenko/chat_v3"
+        tagline: "This real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.io allows users to register, authenticate, and communicate in real-time through chat rooms, with features like user status and customizable themes"
 
 
 skills:
